@@ -6,9 +6,9 @@ color:
   saturation: 0.8086556564085186
   rhythmicContrast: 0.054110129131004214
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: okyeahsure
